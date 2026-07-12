@@ -1,4 +1,6 @@
 streamlit
-pandas
-fpdf
-PyPDF2
+pdfplumber
+easyocr
+numpy
+pillow
+requests
