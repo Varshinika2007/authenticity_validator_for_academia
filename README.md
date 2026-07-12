@@ -58,8 +58,3 @@ python -m streamlit run app.py
 
 ---
 
-### Pro-Tip for your GitHub Repository
-
-Once you push this `README.md` to your GitHub repository, it will automatically appear as the "homepage" of your project. This makes your project look professional and helps anyone (or any professor) understand exactly how to use your tool the moment they click your link.
-
-**Do you need help with anything else to get your GitHub repository finalized, or are you ready to deploy?**
